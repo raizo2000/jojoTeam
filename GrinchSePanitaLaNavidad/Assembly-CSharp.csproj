@@ -63,7 +63,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
+    <Compile Include="Assets\Scripts\Creación.cs" />
+    <Compile Include="Assets\Scripts\Disparo.cs" />
+    <Compile Include="Assets\Scripts\Duende.cs" />
+    <Compile Include="Assets\Scripts\changeImage.cs" />
+    <Compile Include="Assets\Scripts\esceneManager1.cs" />
     <None Include="Assets\Fantasy Skybox FREE\Readme.txt" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.11f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
